@@ -2,7 +2,7 @@
   <v-app >
     <Navbar />
     <v-content>
-      <router-view/>
+      <router-view class="pa-4"/>
     </v-content>
   </v-app>
 </template>
@@ -21,6 +21,6 @@ export default {
 
 <style scoped>
   .theme--light.v-application {
-    background-color: #BBDEFB;
+    background-color: rgb(230, 230, 230);
   }
 </style>

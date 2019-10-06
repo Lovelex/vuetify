@@ -8,6 +8,9 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
+    "date-fns": "^2.4.1",
+    "firebase": "^7.1.0",
+    "moment": "^2.24.0",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3",
     "vuetify": "^2.0.0"
